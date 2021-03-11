@@ -1,0 +1,3 @@
+
+void AddVector();
+void StartAddVector();
